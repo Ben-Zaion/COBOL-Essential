@@ -1,1 +1,1 @@
-# COBOL-Essential-
+# COBOL Essential Training
