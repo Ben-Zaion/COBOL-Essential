@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. HELLO-WORM.
+       PROGRAM-ID. HELLO-WORM-TEST.
        AUTHOR.
        ENVIRONMENT DIVISION.
        DATA DIVISION.
@@ -10,4 +10,4 @@
            accept TEST_WORM.
            DISPLAY TEST_WORM.
            STOP RUN.
-           END PROGRAM HELLO-WORM. 
+           END PROGRAM HELLO-WORM-TEST. 
